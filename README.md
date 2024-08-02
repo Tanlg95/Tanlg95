@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tanlg95
-- 👀 I’m interested in learn something in the internet
+- 👀 I’m interested in learning something in the internet
 - 🌱 I’m currently learning javascript, nodejs, mssql, mysql, postgreSQL, mongodb
 - ✍🏻 I'm writing some sql solutions on leetcode.com
 - 🥷 My leetcode profile: https://leetcode.com/u/cooking_Guy_9ice/
